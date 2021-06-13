@@ -2,7 +2,7 @@
 # @Author: Marylette B. Roa
 # @Date:   2021-06-13 16:36:27
 # @Last Modified by:   Marylette B. Roa
-# @Last Modified time: 2021-06-13 18:22:08
+# @Last Modified time: 2021-06-13 18:40:36
 
 from art import logo
 import random
@@ -25,20 +25,26 @@ def score(cards):
     else:
         return sum(cards)
 
+
 def evaluate(computer_score, player_score):
-    if computer_score > 21:
-        if player_score > 21:
-            return "You both went over. Draw."
+    if computer_score == player_score:
+        print("You have the same score. Draw.")
+    elif computer_score == 21 and player_score != 21:
+        print("Your opponent scored 21. You lose.")
+    elif player_score == 21 and computer_score != 21:
+        print("You scored 21. You win.")
+    elif computer_score > 21 and player_score > 21:
+        print("You both went over 21. Draw.")
+    elif computer_score > 21 and player_score < 21:
+        print("Your opponent's score went over 21. You win.")
+    elif computer_score < 21 and player_score > 21:
+        print("Your score went over 21. You lose.")
+    elif computer_score < 21 and player_score < 21:
+        if (21 - computer_score) > (21 - player_score):
+            print("You scored closer to 21. You win.")
         else:
-            return "Your opponent went over. You win. 😁"
-    elif computer_score == player_score:
-        return "You have the same core. Draw."
-    elif computer_score < 21:
-        if player_score < 21:
-            if (21 - computer_score) > (21 - player_score):
-                return "You score closer to 21. You win. 😁"
-            else:
-                return "Your opponent scored closer to 21. You win. 😁"
+            print("Your opponent scored closer to 21. You lose.")
+
 
 play = input("Do you want to play a game of Blackjack? Type 'y' or 'n': ")
 
@@ -71,23 +77,6 @@ while play == "y":
     print(f"\tYour cards: {player_cards}, current score: {player_score}")
     print(f"\tComputer's final hand: {computer_cards}, final score: {computer_score}")
 
-
-    if computer_score > 21:
-        if player_score > 21:
-            print("You both went over. Draw.")
-        else:
-            print("Your opponent's score went over. You win.")
-    elif computer_score == player_score:
-        print("You have the same score. Draw.")
-    elif computer_score < 21:
-        if player_score < 21:
-            if (21 - computer_score) > (21 - player_score):
-                print("You scored closer to 21. You win.")
-            else:
-                print("Your opponent scored closer to 21. You lose.")
-        else:
-            print("You went over 21. You lose.")
-    else:
-      print("Your opponent scored closer to 21. You lose.")
+    evaluate(computer_score, player_score)
 
     play = input("Do you want to play a game of Blackjack? Type 'y' or 'n': ")
