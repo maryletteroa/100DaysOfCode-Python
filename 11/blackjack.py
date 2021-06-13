@@ -2,7 +2,7 @@
 # @Author: Marylette B. Roa
 # @Date:   2021-06-13 16:36:27
 # @Last Modified by:   Marylette B. Roa
-# @Last Modified time: 2021-06-13 18:40:36
+# @Last Modified time: 2021-06-13 19:14:20
 
 from art import logo
 import random
@@ -64,19 +64,31 @@ while play == "y":
 
     get_card = input("Type 'y' to get another card, type 'n' to pass: ")
 
-    if get_card == "y":
+    while get_card == "y":
         player_cards.extend(draw(1))
 
-    if computer_score < 17:
-        computer_cards.extend(draw(1))
+        if computer_score < 17:
+            computer_cards.extend(draw(1))
 
-    player_score = score(player_cards)
-    computer_score = score(computer_cards)
+        player_score = score(player_cards)
+        computer_score = score(computer_cards)
 
+        if player_score > 21:
+            get_card = "n"
+            continue
+        elif player_score == 21:
+            get_card = "n"
+            continue
+
+        print(f"\tYour cards: {player_cards}, current score: {player_score}")
+        print(f"\tComputer's first card: {computer_cards[0]}")
+
+        get_card = input("Type 'y' to get another card, type 'n' to pass: ")
 
     print(f"\tYour cards: {player_cards}, current score: {player_score}")
     print(f"\tComputer's final hand: {computer_cards}, final score: {computer_score}")
 
     evaluate(computer_score, player_score)
 
+    
     play = input("Do you want to play a game of Blackjack? Type 'y' or 'n': ")
