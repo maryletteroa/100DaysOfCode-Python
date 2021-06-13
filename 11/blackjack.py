@@ -2,7 +2,7 @@
 # @Author: Marylette B. Roa
 # @Date:   2021-06-13 16:36:27
 # @Last Modified by:   Marylette B. Roa
-# @Last Modified time: 2021-06-13 17:47:02
+# @Last Modified time: 2021-06-13 18:22:08
 
 from art import logo
 import random
@@ -87,7 +87,7 @@ while play == "y":
                 print("Your opponent scored closer to 21. You lose.")
         else:
             print("You went over 21. You lose.")
+    else:
+      print("Your opponent scored closer to 21. You lose.")
 
     play = input("Do you want to play a game of Blackjack? Type 'y' or 'n': ")
-
-
