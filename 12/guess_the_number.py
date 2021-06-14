@@ -2,7 +2,7 @@
 # @Author: Marylette B. Roa
 # @Date:   2021-06-14 20:14:34
 # @Last Modified by:   Marylette B. Roa
-# @Last Modified time: 2021-06-14 21:28:50
+# @Last Modified time: 2021-06-14 21:51:19
 
 import random
 from art import logo
