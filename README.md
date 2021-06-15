@@ -27,3 +27,5 @@ Day 10 - Calculator
 Day 11 (Capstone) - Blackjack
 
 Day 12 - Guess the number
+
+Day 13 - Debugging
