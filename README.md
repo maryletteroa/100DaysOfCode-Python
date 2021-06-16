@@ -29,3 +29,5 @@ Day 11 (Capstone) - Blackjack
 Day 12 - Guess the number
 
 Day 13 - Debugging
+
+Day 14 - Higher-lower
