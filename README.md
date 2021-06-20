@@ -34,6 +34,6 @@ Day 14 - [Higher-lower](https://replit.com/@maryletteroa/higher-lower)
 
 Day 15 - [Coffee machine](https://replit.com/@maryletteroa/coffee-machine)
 
-Day 16 - [OOP Coffe machine](https://replit.com/@maryletteroa/oop-coffee-machine)
+Day 16 - [OOP Coffee machine](https://replit.com/@maryletteroa/oop-coffee-machine)
 
 Day 17 - [Quiz game](https://replit.com/@maryletteroa/quiz-game)
