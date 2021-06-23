@@ -2,7 +2,7 @@
 
 based on the Udemy Course: [100 Days of Code - The Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
-
+I write about this project here:  [100 Days of Python](https://maryletteroa.github.io/project/2021/06/02/hundred-days-of-python.html)
 
 Day 1 - [Band name generator](https://replit.com/@maryletteroa/band-name-generator)
 
