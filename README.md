@@ -39,3 +39,6 @@ Day 16 - [OOP Coffee machine](https://replit.com/@maryletteroa/oop-coffee-machin
 Day 17 - [Quiz game](https://replit.com/@maryletteroa/quiz-game)
 
 Day 18 - [Hirst painting](https://replit.com/@maryletteroa/hirst-painting)
+
+Day 19 - [Turtle race](https://replit.com/@maryletteroa/turtle-race)
+    - [Etch-A-Sketch](https://replit.com/@maryletteroa/etch-a-sketch)
