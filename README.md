@@ -42,3 +42,5 @@ Day 18 - [Hirst painting](https://replit.com/@maryletteroa/hirst-painting)
 
 Day 19 - [Turtle race](https://replit.com/@maryletteroa/turtle-race)
     - [Etch-A-Sketch](https://replit.com/@maryletteroa/etch-a-sketch)
+
+Day 20 - [Snake game Part 1](https://replit.com/@maryletteroa/snake-game-part-1)
