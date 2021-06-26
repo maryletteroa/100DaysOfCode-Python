@@ -44,3 +44,5 @@ Day 19 - [Turtle race](https://replit.com/@maryletteroa/turtle-race)
     - [Etch-A-Sketch](https://replit.com/@maryletteroa/etch-a-sketch)
 
 Day 20 - [Snake game Part 1](https://replit.com/@maryletteroa/snake-game-part-1)
+
+Day 21 - [Snake game](https://replit.com/@maryletteroa/snake-game)
