@@ -48,3 +48,5 @@ Day 20 - [Snake game Part 1](https://replit.com/@maryletteroa/snake-game-part-1)
 Day 21 - [Snake game](https://replit.com/@maryletteroa/snake-game)
 
 Day 22 - [Pong](https://replit.com/@maryletteroa/pong)
+
+Day 23 (Capstone) - [Turtle crossing](https://replit.com/@maryletteroa/turtle-crossing)
