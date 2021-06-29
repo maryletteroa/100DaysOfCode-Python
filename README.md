@@ -50,3 +50,6 @@ Day 21 - [Snake game](https://replit.com/@maryletteroa/snake-game)
 Day 22 - [Pong](https://replit.com/@maryletteroa/pong)
 
 Day 23 (Capstone) - [Turtle crossing](https://replit.com/@maryletteroa/turtle-crossing)
+
+Day 24 - [Snake High Score](https://replit.com/@maryletteroa/snake-high-score)
+    - [Mail merge](https://replit.com/@maryletteroa/mail-merge)
