@@ -56,4 +56,6 @@ Day 24 - [Snake High Score](https://replit.com/@maryletteroa/snake-high-score)
 
 Day 25 - [US States](https://replit.com/@maryletteroa/us-states)
 
-Day 27 - [NATO alphabet](https://replit.com/@maryletteroa/nato-alphabet)
+Day 26 - [NATO alphabet](https://replit.com/@maryletteroa/nato-alphabet)
+
+Day 27 - [Mile to Kilometer](https://replit.com/@maryletteroa/miles-to-kilometerpy)
