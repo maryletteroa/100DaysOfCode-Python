@@ -73,7 +73,7 @@ def search_password():
             password = data[website]["password"]
             messagebox.showinfo(title=website, message=f"Email: {email}\nPassword: {password}")
         else:
-            messagebox.showinfo(title=website, message=f"No details for website {message_error} exist.")
+            messagebox.showinfo(title=website, message=f"No details for website exist.")
 
 # ---------------------------- UI SETUP ------------------------------- #
 
