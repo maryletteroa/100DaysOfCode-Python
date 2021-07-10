@@ -40,8 +40,7 @@ Day 17 - [Quiz game](https://replit.com/@maryletteroa/quiz-game)
 
 Day 18 - [Hirst painting](https://replit.com/@maryletteroa/hirst-painting)
 
-Day 19 - [Turtle race](https://replit.com/@maryletteroa/turtle-race)
-    - [Etch-A-Sketch](https://replit.com/@maryletteroa/etch-a-sketch)
+Day 19 - [Turtle race](https://replit.com/@maryletteroa/turtle-race), [Etch-A-Sketch](https://replit.com/@maryletteroa/etch-a-sketch)
 
 Day 20 - [Snake game Part 1](https://replit.com/@maryletteroa/snake-game-part-1)
 
@@ -51,8 +50,7 @@ Day 22 - [Pong](https://replit.com/@maryletteroa/pong)
 
 Day 23 (Capstone) - [Turtle crossing](https://replit.com/@maryletteroa/turtle-crossing)
 
-Day 24 - [Snake High Score](https://replit.com/@maryletteroa/snake-high-score)
-    - [Mail merge](https://replit.com/@maryletteroa/mail-merge)
+Day 24 - [Snake High Score](https://replit.com/@maryletteroa/snake-high-score), [Mail merge](https://replit.com/@maryletteroa/mail-merge)
 
 Day 25 - [US States](https://replit.com/@maryletteroa/us-states)
 
@@ -68,5 +66,4 @@ Day 30 - [Password manager with search](https://replit.com/@maryletteroa/passwor
 
 Day 31 (Capstone) - [Flash card](https://replit.com/@maryletteroa/flash-card)
 
-Day 32 - [Birthday greeting](https://replit.com/@maryletteroa/birthday-greeting)
-    - [Monday Motivation](https://replit.com/@maryletteroa/monday-motivation)
+Day 32 - [Birthday greeting](https://replit.com/@maryletteroa/birthday-greeting), [Monday Motivation](https://replit.com/@maryletteroa/monday-motivation)
