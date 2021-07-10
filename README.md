@@ -67,3 +67,6 @@ Day 29 - [Password manager](https://replit.com/@maryletteroa/password-manager)
 Day 30 - [Password manager with search](https://replit.com/@maryletteroa/password-manager-with-search)
 
 Day 31 (Capstone) - [Flash card](https://replit.com/@maryletteroa/flash-card)
+
+Day 32 - [Birthday greeting](https://replit.com/@maryletteroa/birthday-greeting)
+    - [Monday Motivation](https://replit.com/@maryletteroa/monday-motivation)
