@@ -42,7 +42,7 @@ print(response.text)
 
 pixel_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/graph1"
 today = datetime.now().strftime("%Y%m%d")
-# yesterday = datetime(year=2021, month=7, day=11).strftime("%Y%m%d")
+yesterday = datetime(year=2021, month=7, day=11).strftime("%Y%m%d")
 pixel_config = {
     "date": today,
     "quantity": input("How many minutes did you meditate today? "),
@@ -70,5 +70,8 @@ print(response.text)
 response = requests.delete(url=pixel_endpoint, json=pixel_config, headers=headers)
 print(response.text)
 
-
+# delete user
+user_endpoint = f"{pixela_endpoint}/{USERNAME}"
+response = requests.delete(url=user_endpoint, headers=headers)
+print(response.text)
 
