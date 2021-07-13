@@ -77,3 +77,5 @@ Day 35 - [Rain Alert](https://replit.com/@maryletteroa/rain-alert)
 Day 36 - [Stock trading news alert](https://replit.com/@maryletteroa/stock-trading-news-alert)
 
 Day 37 - [Pixel habit tracker](https://replit.com/@maryletteroa/pixela-habit-tracker)
+
+Day 38 - [Workout tracker](https://replit.com/@maryletteroa/workout-tracker)
