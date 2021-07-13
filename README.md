@@ -75,3 +75,5 @@ Day 34 - [Quizzler App](https://replit.com/@maryletteroa/quizzler-app)
 Day 35 - [Rain Alert](https://replit.com/@maryletteroa/rain-alert)
 
 Day 36 - [Stock trading news alert](https://replit.com/@maryletteroa/stock-trading-news-alert)
+
+Day 37 - [Pixel habit tracker](https://replit.com/@maryletteroa/pixela-habit-tracker)
