@@ -1,6 +1,6 @@
 import requests
 import os
-from datetime import date, datetime
+from datetime import datetime
 
 
 TOKEN = os.environ.get("PIXELA_TOKEN")
