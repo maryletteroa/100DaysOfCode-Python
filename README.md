@@ -79,3 +79,5 @@ Day 36 - [Stock trading news alert](https://replit.com/@maryletteroa/stock-tradi
 Day 37 - [Pixel habit tracker](https://replit.com/@maryletteroa/pixela-habit-tracker)
 
 Day 38 - [Workout tracker](https://replit.com/@maryletteroa/workout-tracker)
+
+Day 39 - [Flight deal finder](https://replit.com/@maryletteroa/flight-deal-finder)
