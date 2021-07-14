@@ -1,6 +1,6 @@
 import requests
 import os
-from datetime import date, datetime
+from datetime import datetime
 
 # nutritionix
 APP_ID = os.environ.get("NUTRITIONIX_APP_ID")
