@@ -81,3 +81,5 @@ Day 37 - [Pixel habit tracker](https://replit.com/@maryletteroa/pixela-habit-tra
 Day 38 - [Workout tracker](https://replit.com/@maryletteroa/workout-tracker)
 
 Day 39 - [Flight deal finder](https://replit.com/@maryletteroa/flight-deal-finder)
+
+Day 40 - [Flight club](https://replit.com/@maryletteroa/flight-club)
