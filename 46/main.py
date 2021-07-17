@@ -11,7 +11,6 @@ SPOTIPY_CLIENT_SECRET = os.environ.get("SPOTIPY_CLIENT_SECRET")
 
 
 # get the top 100 songs
-
 date = input("Which year do you want to travel to? Type the date in the format YYYY-MM-DD: ")
 URL = f"https://www.billboard.com/charts/hot-100/{date}"
 
@@ -22,7 +21,13 @@ website_html = response.text
 soup = BeautifulSoup(website_html, "html.parser")
 
 songs = soup.find_all(name="span", class_="chart-element__information__song")
-titles = [song.getText() for song in songs]
+artists = soup.find_all(name="span", class_="chart-element__information__artist")
+song_titles = [song.getText() for song in songs]
+artist_names = [artist.getText() for artist in artists]
+tracks = zip(song_titles, artist_names)
+
+# for track in tracks:
+#     print(track[0], track[1])
 
 # access spotify
 scope = "playlist-modify-private"
@@ -37,12 +42,13 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
 user_id = sp.current_user()["id"]
 
 uris = []
-for title in titles:
+for track in tracks:
     # search for the songs
-    result = sp.search(title, limit=1, type="track")
+    song, artist = track
+    result = sp.search(f"artist:{artist} track:{song}", limit=1, type="track")
     hits = result["tracks"]["items"]
     if len(hits) == 0:
-        print(f"The song {title} is not available in Spotify")
+        print(f"{song} by {artist} is not available in Spotify")
     else:
         uri = hits[0]["uri"]
         uris.append(uri)
