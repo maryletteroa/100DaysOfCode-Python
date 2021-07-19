@@ -91,3 +91,5 @@ Day 45 - [Greatest Movies](https://replit.com/@maryletteroa/greatest-movies)
 Day 46 - [Music Time Machine](https://replit.com/@maryletteroa/music-time-machine)
 
 Day 47 - [Amazon Price Tracker](https://replit.com/@maryletteroa/amazon-price-tracker)
+
+Day 48 - [Game Clicker Bot](https://replit.com/@maryletteroa/game-cliker-bot)
