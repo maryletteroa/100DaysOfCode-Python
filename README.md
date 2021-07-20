@@ -93,3 +93,5 @@ Day 46 - [Music Time Machine](https://replit.com/@maryletteroa/music-time-machin
 Day 47 - [Amazon Price Tracker](https://replit.com/@maryletteroa/amazon-price-tracker)
 
 Day 48 - [Game Clicker Bot](https://replit.com/@maryletteroa/game-cliker-bot)
+
+Day 49 - [Automate Job Applications](https://replit.com/@maryletteroa/automate-job-applications)
