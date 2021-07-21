@@ -43,10 +43,6 @@ while next:
     prices = driver.find_elements_by_class_name("list-card-price")
     urls = driver.find_elements_by_css_selector(".list-card-info a")
 
-    # total_results = int(driver.find_element_by_class("result-count").text.replace(",",""))
-    # results_per_page = len(driver.find_elements_by_class("photo-cards"))
-    # next_counts = total_results // results_per_page
-
     for i, address in enumerate(addresses):
         n = i + records
         listings[n] = {"address": addresses[i].text,
