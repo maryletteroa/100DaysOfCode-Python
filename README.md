@@ -95,3 +95,7 @@ Day 47 - [Amazon Price Tracker](https://replit.com/@maryletteroa/amazon-price-tr
 Day 48 - [Game Clicker Bot](https://replit.com/@maryletteroa/game-cliker-bot)
 
 Day 49 - [Automate Job Applications](https://replit.com/@maryletteroa/automate-job-applications)
+
+Days 50-52 - (skipped)
+
+Day 53 - [Data Entry Automation](https://replit.com/@maryletteroa/data-entry-automation)
