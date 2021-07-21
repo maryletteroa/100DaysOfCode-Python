@@ -18,7 +18,7 @@ driver.maximize_window()
 # scroll for n seconds (to the bottom of the page to load everything)
 # can be replaced with scrolling till element
 next = True
-scroll_time = 10
+scroll_time = 20
 wait_time = 10
 page_num = 1
 listings = {}
