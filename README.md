@@ -103,3 +103,5 @@ Day 53 (Capstone) - [Data Entry Automation](https://replit.com/@maryletteroa/dat
 Day 54 - [Introduction to Flask](https://replit.com/@maryletteroa/introduction-to-flask)
 
 Day 55 - [Higher Lower Web Game](https://replit.com/@maryletteroa/higher-lower-game-web)
+
+Day 56 - [Name Card](https://replit.com/@maryletteroa/name-card)
