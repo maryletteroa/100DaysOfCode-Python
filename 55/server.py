@@ -24,4 +24,4 @@ def check_number(number):
             <img src='https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif'>"
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
