@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
-from selenium.common.exceptions import NoSuchElementException
 from datetime import datetime
 import os
 
@@ -24,9 +23,8 @@ page_num = 1
 listings = {}
 records = 0 # total number of parsed records
 bef_link = ""
-while next:
-    
-    # driver.implicitly_wait(wait_time)
+
+while next:    
     sort_button = driver.find_element_by_xpath('//*[@id="sort-popover"]')
     driver.implicitly_wait(wait_time)
     ActionChains(driver).move_to_element(sort_button).click(sort_button).perform()
