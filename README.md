@@ -105,3 +105,5 @@ Day 54 - [Introduction to Flask](https://replit.com/@maryletteroa/introduction-t
 Day 55 - [Higher Lower Web Game](https://replit.com/@maryletteroa/higher-lower-game-web)
 
 Day 56 - [Name Card](https://replit.com/@maryletteroa/name-card)
+
+Day 57 (Capstone Part 1) - [Blog](https://replit.com/@maryletteroa/blog)
