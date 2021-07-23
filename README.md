@@ -99,3 +99,5 @@ Day 49 - [Automate Job Applications](https://replit.com/@maryletteroa/automate-j
 Days 50-52 - (skipped)
 
 Day 53 (Capstone) - [Data Entry Automation](https://replit.com/@maryletteroa/data-entry-automation)
+
+Day 54 - [Introduction to Flask](https://replit.com/@maryletteroa/introduction-to-flask)
