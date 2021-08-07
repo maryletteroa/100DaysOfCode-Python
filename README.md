@@ -108,4 +108,6 @@ Day 56 - [Name Card](https://replit.com/@maryletteroa/name-card)
 
 Day 57 (Capstone Part 1) - [Blog](https://replit.com/@maryletteroa/blog)
 
-Day 56 - [Tindog](https://maryletteroa.github.io/tindog)
+Day 58 - [Tindog](https://maryletteroa.github.io/tindog)
+
+Day 59 (Capstone Part 2) - [Blog](https://dawn-leaf-1474.herokuapp.com)
