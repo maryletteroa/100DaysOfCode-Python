@@ -121,3 +121,7 @@ Day 62 - [Coffee & WiFi](https://replit.com/@maryletteroa/coffee-and-wifi)
 Day 63 - [Library](https://replit.com/@maryletteroa/library)
 
 Day 64 - [My Top Movies](https://damp-meadow-5145.herokuapp.com)
+
+Day 65 - (skipped)
+
+Day 66 - [Cafe and Wifi with RESTful API](https://replit.com/@maryletteroa/cafe-and-wifi-restful-api)
