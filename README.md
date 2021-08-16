@@ -110,7 +110,7 @@ Day 57 (Capstone Part 1) - [Blog](https://replit.com/@maryletteroa/blog)
 
 Day 58 - [Tindog](https://maryletteroa.github.io/tindog)
 
-Day 59 (Capstone Part 2) - [Blog](https://dawn-leaf-1474.herokuapp.com)
+Day 59 (Capstone Part 2) - [Blog](https://dawn-leaf-1474.herokuapp.com) with Styling
 
 Day 60 - [Contact Form](https://replit.com/@maryletteroa/contact-form), [Blog](https://dawn-leaf-1474.herokuapp.com)
 
@@ -126,6 +126,8 @@ Day 65 - (skipped)
 
 Day 66 - [Cafe and Wifi with RESTful API](https://replit.com/@maryletteroa/cafe-and-wifi-restful-api)
 
-Day 67 (Capstone Part 3) - [Blog](https://dawn-leaf-1474.herokuapp.com)
+Day 67 (Capstone Part 3) - [Blog](https://dawn-leaf-1474.herokuapp.com) with RESTful Routing
 
 Day 68 - [Flask with Authentication](https://replit.com/@maryletteroa/flask-with-authentication)
+
+Day 69 (Capstone Part 4) - [Blog](https://dawn-leaf-1474.herokuapp.com) with Users
