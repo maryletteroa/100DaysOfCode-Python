@@ -131,3 +131,5 @@ Day 67 (Capstone Part 3) - [Blog](https://dawn-leaf-1474.herokuapp.com) with RES
 Day 68 - [Flask with Authentication](https://replit.com/@maryletteroa/flask-with-authentication)
 
 Day 69 (Capstone Part 4) - [Blog](https://dawn-leaf-1474.herokuapp.com) with Users
+
+Day 70 - Deployed blog in Heroku - [Blog](https://dawn-leaf-1474.herokuapp.com)
