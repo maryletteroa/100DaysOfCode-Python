@@ -134,4 +134,6 @@ Day 69 (Capstone Part 4) - [Blog](https://dawn-leaf-1474.herokuapp.com) with Use
 
 Day 70 - Deployed blog in Heroku - [Blog](https://dawn-leaf-1474.herokuapp.com)
 
-Day 71 - Deployed blog in Heroku - [Blog](https://github.com/maryletteroa/100DaysOfCode-Python/blob/main/71/Data_Exploration_Pandas_College_Major.ipynb)
+Day 71 - Data Exploration College Major - [Notebook](https://github.com/maryletteroa/100DaysOfCode-Python/blob/main/71/Data_Exploration_Pandas_College_Major.ipynb)
+
+Day 72 - Data Visualization Programming Languages - [Notebook](https://github.com/maryletteroa/100DaysOfCode-Python/blob/main/72/Programming_Languages.ipynb)
