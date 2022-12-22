@@ -133,3 +133,5 @@ Day 68 - [Flask with Authentication](https://replit.com/@maryletteroa/flask-with
 Day 69 (Capstone Part 4) - [Blog](https://dawn-leaf-1474.herokuapp.com) with Users
 
 Day 70 - Deployed blog in Heroku - [Blog](https://dawn-leaf-1474.herokuapp.com)
+
+Day 71 - Deployed blog in Heroku - [Blog](https://github.com/maryletteroa/100DaysOfCode-Python/blob/main/71/Data_Exploration_Pandas_College_Major.ipynb)
